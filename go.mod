@@ -1,6 +1,6 @@
 module github.com/sou1118/hakolatecli
 
-go 1.22.0
+go 1.22.1
 
 require github.com/spf13/cobra v1.8.0 // direct
 
