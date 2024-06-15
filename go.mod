@@ -2,7 +2,7 @@ module github.com/sou1118/hakolatecli
 
 go 1.22.2
 
-require github.com/spf13/cobra v1.8.0 // direct
+require github.com/spf13/cobra v1.8.1 // direct
 
 require (
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
