@@ -6,7 +6,7 @@ require github.com/spf13/cobra v1.8.1 // direct
 
 require (
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
-	github.com/charmbracelet/bubbletea v0.26.5 // direct
+	github.com/charmbracelet/bubbletea v0.26.6 // direct
 	github.com/containerd/console v1.0.4-0.20230313162750-1ae8d489ac81 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
