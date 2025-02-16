@@ -2,7 +2,7 @@ module github.com/sou1118/hakolatecli
 
 go 1.22.2
 
-require github.com/spf13/cobra v1.8.1 // direct
+require github.com/spf13/cobra v1.9.0 // direct
 
 require (
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
@@ -18,7 +18,7 @@ require (
 	github.com/muesli/reflow v0.3.0 // indirect
 	github.com/muesli/termenv v0.15.2 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
-	github.com/spf13/pflag v1.0.5 // indirect
+	github.com/spf13/pflag v1.0.6 // indirect
 	golang.org/x/sync v0.8.0 // indirect
 	golang.org/x/sys v0.24.0 // indirect
 	golang.org/x/term v0.20.0 // indirect
